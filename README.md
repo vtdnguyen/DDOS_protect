@@ -12,8 +12,10 @@ Bài tập lớn này nhằm mục đích phát triển một hệ thống chố
 **Video demo:** [Demo](https://www.youtube.com/watch?v=yiXE8spNnRk) 
 
 **Bước cài đặt:**
-*Thực hiện lần lượt các file .sh * 
-*Cài đặt Prometheus, Grafana theo các trang docs:*
+
+*1. Thực hiện lần lượt các file .sh* 
+
+*2. Cài đặt Prometheus, Grafana theo các trang docs:*
 - [Prometheus for HAProxy](https://www.haproxy.com/documentation/haproxy-configuration-tutorials/alerts-and-monitoring/prometheus/)
 - [Prometheus for Nginx](https://github.com/nginxinc/nginx-prometheus-exporter)
 
